@@ -3,7 +3,8 @@
    Authors: Angad Virk, Zale Young
    
    Video Game Controller
-   
+
+   Report Website: https://go.middlebury.edu/sbox
 */
 
 #include <Arduino.h>
